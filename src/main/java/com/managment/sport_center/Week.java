@@ -38,5 +38,4 @@ public class Week  {
     public void setDay_names(String[] day_names) {
         this.day_names = day_names;
     }
-    
 }

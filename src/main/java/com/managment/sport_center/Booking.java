@@ -9,7 +9,6 @@ package com.managment.sport_center;
  * @author ? 
  */
 public class Booking {
-    
     private int bookingid;
     private int studentid;
    private String day;

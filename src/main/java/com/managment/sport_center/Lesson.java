@@ -44,5 +44,4 @@ public class Lesson
     {
         this.lesson_names = lesson_names;
     }
-
 }
